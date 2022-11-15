@@ -1,0 +1,22 @@
+{
+  "filmek": [
+    {
+      "azon": "001",
+      "cim": "Vissza a jövőbe I",
+      "ev": "1985",
+      "db": "43"
+    },
+    {
+      "azon": "002",
+      "cim": "Vissza a jövőbe II",
+      "ev": "1989",
+      "db": "43"
+    },
+    {
+      "azon": "003",
+      "cim": "Vissza a jövőbe III",
+      "ev": "1990",
+      "db": "43"
+    }
+  ]
+}

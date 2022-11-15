@@ -1,0 +1,11 @@
+main { max-width: 700px; background-color: beige; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: black; justify-content: center; margin:auto;}
+.hello {border: 1px beige solid; max-width: 400px; color: brown; }
+.hello p {text-align: center; padding: 5px; margin: 5px;}
+
+@media only screen and (max-width: 600px) {
+    body { width: 50%;
+     
+    }
+  }
+
+  .elem {background-color: azure; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; padding: 15px; margin:auto}
